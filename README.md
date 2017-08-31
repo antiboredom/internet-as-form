@@ -41,15 +41,16 @@ Please bring laptops to class. Mac is preferred, but any laptop will do - no tab
 * First assignment: ______
 
 
-### 9/8/2017
+### 9/8/2017: Web sites
 
 * Introduction to HTML
-* 
+* Assignment: Make a simple website
 
 
 ### 9/15/2017: YouTube Microgenres
 
-* CSS
+* Topic: a survey of YouTube
+* Introduction to CSS
 
 
 ### 9/22/2017: Live streams
