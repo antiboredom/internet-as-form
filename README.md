@@ -1,6 +1,9 @@
 # Experimenting with the Internet as Form
 
-Sam Lavigne (lavignes@newschool.edu), The New School, 2017 
+```
+Sam Lavigne, The New School, Fall 2017 
+Contact: lavignes@newschool.edu
+```
 
 ## Description
 
@@ -33,6 +36,8 @@ Please bring laptops to class. Mac is preferred, but any laptop will do - no tab
 
 ## Schedule
 
+Note: the schedule is subject to change!
+
 ### 9/1/2017: Introductions
 
 * Course overview
@@ -45,6 +50,7 @@ Please bring laptops to class. Mac is preferred, but any laptop will do - no tab
 
 * Introduction to HTML
 * Assignment: Make a simple website
+* Reading: [From Counterculture to Cyberculture](http://press.uchicago.edu/Misc/Chicago/817415_chap4.html)
 
 
 ### 9/15/2017: YouTube Microgenres
@@ -55,13 +61,16 @@ Please bring laptops to class. Mac is preferred, but any laptop will do - no tab
 
 ### 9/22/2017: Live streams
 
-Note: this class will be held remotely. Details to follow.
+* Note: this class will be held remotely as a livestream. Details to follow.
+* Assignment: make a live stream
+* Watch: [Notes of Feeds](https://vimeo.com/album/4684603/video/225568156)
 
 
 ### 9/29/2017: Supercuts
 
 * Topic: downloading videos and making supercuts
 * Assignment: Create a supercut
+* Read: [http://www.bopsecrets.org/SI/detourn.htm](A User’s Guide to Détournement)
 
 
 ### 10/06/2017: Piracy and Torrents
@@ -74,12 +83,14 @@ Note: this class will be held remotely. Details to follow.
 
 * Topic: Email and spam
 * Assignment: Abuse email or a messaging platform of your choice
+* Reading: Spam: A Shadow History of the Internet, Chapter 1
 
 
 ### 10/20/2017: Digital Labor
 
 * Topic: mechanical turk and machine learning
 * Assignment: do some digital labor or make someone do your digital labor
+* Reading: [The Coming '17](http://www.e-flux.com/journal/78/82058/the-coming-17/)
 
 
 ### 10/27/2017: Buying and Selling
@@ -97,7 +108,7 @@ Note: this class will be held remotely. Details to follow.
 * Assignment: Create and advertisement and post it on Facebook, Google Ads, Twitter, or a platform of your choosing
 
 
-### 11/17/2017: TBD
+### 11/17/2017: WiFi & Radio
 
 
 ### 12/01/2017: TBD
@@ -120,13 +131,13 @@ There will be 10 short assignments and one larger final project. Short assignmen
 
 
 ### Weekly assignments
-Each week we will cover a different online "form" and you'll be expected to produce a project that makes use of that form. Because the turn-around is fast, I do not expect the assignments to be perfectly executed, but I do expect them to be perfectly conceived.
+Each week we will cover a different online "form" and you'll be expected to produce a project that makes use of that form. Because the turn-around is fast, I do not expect the assignments to be perfectly executed, but I do expect them to be brave,  highly experimental and thoughtfully conceived. 
 
 For each assignment you will need to provide:
 * Documentation of the work.
 * 100 to 250 words describing the piece and placing it within a larger context. 
 
-**TIPS:** Each genre of internet thing we cover will have unique affordances, capacities and constraints. When thinking about how to complete an assignment, consider the form: what can this form ***do*** that other forms cannot? What does it allow you to do? How does it work? How can you draw out its innate qualities, or, how can you break them? 
+**TIPS:** Each genre of internet thing we cover will have unique affordances, capacities and constraints. When thinking about how to complete an assignment, consider the form: what can this form ***do*** that other forms cannot? What does it allow you to do? How does it work? How can you draw out its innate qualities, or, how can you break them? Consider the mode of distribution that the form permits, and what modes of feedback exist around it. How does the audience interact with the work? For example, shares, likes, comments, downloads, etc. Also consider the culture of the platform - ie YouTube culture is different than Vimeo culture.
 
 ### Final project
 
