@@ -36,21 +36,21 @@ Please bring laptops to class. Mac is preferred, but any laptop will do - no tab
 
 ## Schedule
 
-Note: the schedule is subject to change!
+Note: schedule and readings are subject to change. All readings will be available online.
 
 ### 9/1/2017: Introductions
 
 * Course overview
 * Introductions
 * Lecture: the structure of the internet and the web
-* First assignment: ______
+* Reading: [From Counterculture to Cyberculture](http://press.uchicago.edu/Misc/Chicago/817415_chap4.html)
+* First assignment: Create a list of the most interesting and unique things you can find online. Draw from our list of internet "genres" if you need inspiration. 
 
 
 ### 9/8/2017: Web sites
 
 * Introduction to HTML
 * Assignment: Make a simple website
-* Reading: [From Counterculture to Cyberculture](http://press.uchicago.edu/Misc/Chicago/817415_chap4.html)
 
 
 ### 9/15/2017: YouTube Microgenres
@@ -76,6 +76,7 @@ Note: the schedule is subject to change!
 ### 10/06/2017: Piracy and Torrents
 
 * Topic: Peer-to-peer distribution systems
+* Introduction to javascript
 * Assignment: create a torrent
 
 
@@ -98,9 +99,9 @@ Note: the schedule is subject to change!
 * Assignment: Sell something on the internet
 
 
-### 11/03/2017: Memes and Politics
+### 11/03/2017: Memes, Bots & Politics
 
-* Assignment: Make a meme
+* Assignment: Make a meme or make a bot
 
 
 ### 11/10/2017: Advertising and Privacy
@@ -110,6 +111,7 @@ Note: the schedule is subject to change!
 
 ### 11/17/2017: WiFi & Radio
 
+* Guest speaker: Surya Mattu
 
 ### 12/01/2017: TBD
 
@@ -120,9 +122,6 @@ Note: the schedule is subject to change!
 ### 12/15/2017: Final Presentations
 
 Final presentations
-
-
-## Readings
 
 
 ## Assignments & Grading
@@ -137,7 +136,7 @@ For each assignment you will need to provide:
 * Documentation of the work.
 * 100 to 250 words describing the piece and placing it within a larger context. 
 
-**TIPS:** Each genre of internet thing we cover will have unique affordances, capacities and constraints. When thinking about how to complete an assignment, consider the form: what can this form ***do*** that other forms cannot? What does it allow you to do? How does it work? How can you draw out its innate qualities, or, how can you break them? Consider the mode of distribution that the form permits, and what modes of feedback exist around it. How does the audience interact with the work? For example, shares, likes, comments, downloads, etc. Also consider the culture of the platform - ie YouTube culture is different than Vimeo culture.
+**TIPS:** Each genre of internet thing we cover will have unique affordances, capacities and constraints. When thinking about how to complete an assignment, consider the form: what can this form ***do*** that other forms cannot? What does it allow you to do? How does it work? How can you draw out its innate qualities, or, how can you break them? Consider the mode of distribution that the form permits, and what modes of feedback exist around it. How does the audience interact with the work? For example, shares, likes, comments, downloads, etc. Also consider the culture and norms of the platform - ie YouTube culture is different than Vimeo culture.
 
 ### Final project
 
