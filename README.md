@@ -56,6 +56,7 @@ Note: schedule and readings are subject to change. All readings will be availabl
 
 * Introduction to HTML
 * Assignment: Make a simple website to host your projects for this class.
+* Read: Artificial Hells, Chapter 1
 
 
 ### 9/15/2017: YouTube Microgenres
@@ -75,7 +76,7 @@ Note: schedule and readings are subject to change. All readings will be availabl
 
 * Topic: downloading videos and making supercuts
 * Assignment: Create a supercut
-* Read: [http://www.bopsecrets.org/SI/detourn.htm](A User’s Guide to Détournement)
+* Read: [A User's Guide to Détournement](http://www.bopsecrets.org/SI/detourn.htm)
 
 
 ### 10/06/2017: Piracy and Torrents
