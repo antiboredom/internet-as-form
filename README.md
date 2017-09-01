@@ -1,5 +1,7 @@
 # Experimenting with the Internet as Form
 
+Syllabus: [https://github.com/antiboredom/internet-as-form](https://github.com/antiboredom/internet-as-form)
+
 ```
 Sam Lavigne, The New School, Fall 2017 
 Contact: lavignes@newschool.edu
@@ -32,6 +34,8 @@ The class will also serve as introduction to web programming (HTML, CSS and Java
 * Supercuts
 * ...and more!
 
+By the end of the class you'll have a basic understanding of HTML/CSS/Javascript, and an insight into what's possible online.
+
 Please bring laptops to class. Mac is preferred, but any laptop will do - no tablets please.
 
 ## Schedule
@@ -51,7 +55,7 @@ Note: schedule and readings are subject to change. All readings will be availabl
 ### 9/8/2017: Web sites
 
 * Introduction to HTML
-* Assignment: Make a simple website
+* Assignment: Make a simple website to host your projects for this class.
 
 
 ### 9/15/2017: YouTube Microgenres
