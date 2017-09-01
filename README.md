@@ -42,7 +42,8 @@ Note: schedule and readings are subject to change. All readings will be availabl
 
 * Course overview
 * Introductions
-* Lecture: the structure of the internet and the web
+* Short lecture: the structure of the internet and the web
+* In class activity
 * Reading: [From Counterculture to Cyberculture](http://press.uchicago.edu/Misc/Chicago/817415_chap4.html)
 * First assignment: Create a list of the most interesting and unique things you can find online. Draw from our list of internet "genres" if you need inspiration. 
 
@@ -136,7 +137,7 @@ For each assignment you will need to provide:
 * Documentation of the work.
 * 100 to 250 words describing the piece and placing it within a larger context. 
 
-**TIPS:** Each genre of internet thing we cover will have unique affordances, capacities and constraints. When thinking about how to complete an assignment, consider the form: what can this form ***do*** that other forms cannot? What does it allow you to do? How does it work? How can you draw out its innate qualities, or, how can you break them? Consider the mode of distribution that the form permits, and what modes of feedback exist around it. How does the audience interact with the work? For example, shares, likes, comments, downloads, etc. Also consider the culture and norms of the platform - ie YouTube culture is different than Vimeo culture.
+**TIPS:** Each genre of internet thing we cover will have unique affordances, capacities and constraints. When thinking about how to complete an assignment, consider the form: what can this form ***do*** that other forms cannot? What does it allow you to do? How does it work? How can you draw out its innate qualities, or, how can you break them? Consider the mode of distribution that the form permits, and what modes of feedback exist around it. How does the audience interact with the work? For example, shares, likes, comments, downloads, etc. Also consider the culture and norms of the platform you are using.
 
 ### Final project
 
